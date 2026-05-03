@@ -1,0 +1,30 @@
+{
+  "id": "5171399",
+  "name": "fastapilogin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4320340",
+      "name": "关于",
+      "font_class": "guanyu",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "11120339",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11124968",
+      "name": "文章",
+      "font_class": "16",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
